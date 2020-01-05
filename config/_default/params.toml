@@ -165,7 +165,7 @@ plugins_js  = []
 
 # Available address formats.
 [address_formats]
-  jp = {order = ['street', 'city', 'region', 'postcode', 'country'], delimiters = [', ', ', ', ' 〒', '<br>']}
+  jp = {order = ['street', 'city', 'region', 'postcode', 'country'], delimiters = [', ', ', ', ' ', '<br>']}
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
