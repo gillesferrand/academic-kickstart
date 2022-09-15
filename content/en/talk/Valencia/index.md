@@ -1,26 +1,32 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "\"Using Virtual Reality to communicate the science of supernovae and their remnants\""
-event: "iTHEMS coffee meeting"
-event_url:
-location: "RIKEN"
+title: "\"From the thermonuclear supernova to the supernova remnant\""
+event: "workshop \"3D Supernova (Remnants)\""
+event_url: "https://congresos.adeituv.es/supernova/paginas/pagina_659_2.en.html"
+location: "ADEIT"
 address:
   street:
-  city: "Wakō"
-  region: "Saitama"
+  city: "Valencia"
+  region: "Valencia"
   postcode:
-  country: "Japan"
+  country: "Spain"
 summary:
-abstract:
+abstract: "Outline:\n
+1. Structure and dynamics of a young shell SNR: 
+What shapes the ejecta in the remnant phase\n
+2. Typing and sub-typing SNRs: 
+How to tell apart thermonuclear from core-collapse, and can we do more?\n
+3. Toward a grid of SN-SNR models: 
+Using the output from SN models as input for SNR simulations (N100, N grid, D6)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2018-04-13
+date: 2022-09-05
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-01-04T18:24:19+09:00
+publishDate: 2022-09-14T23:00:00-05:00
 
 authors: []
 tags: [pro]
@@ -48,7 +54,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "https://www.dropbox.com/s/e5latrrbjh3ej96/FERRAND_2018-04-13_iTHEMS-coffee-meeting-VR-demo.pdf?dl=0"
+url_pdf: "https://www.dropbox.com/s/2jchqpvkh0f4h86/FERRAND_2022-09-05_Valencia_SN2SNR.pdf?dl=0"
 url_video:
 
 # Markdown Slides (optional).

@@ -79,8 +79,8 @@ email: ""
 #- Visitors
 ---
 
-Bonjour/Hello, je suis Gilles Ferrand /ʒil feʁɑ̃/, un astrophysicien Français et Canadien travaillant présentement au Japon.<br>
-J'étudie l'accélération de particules par les ondes de choc dans les restes de supernova, qu'on pense être les principaux producteurs de rayons cosmiques dans la Galaxie (isolément, ou au sein des superbulles). Mon travail est basé principalement sur les simulations numériques, qui permettent de comprendre les interactions complexes entre le choc et les particules, et de prédire l'émission multi-longueur d'onde qu'on observe. Pour faciliter les comparaisons avec les observations, j'ai réalisé le premier catalogue des observations en rayons X et gamma des rémanents galactiques. Je travaille présentement à faire le lien entre la modélisation des explosion de supernova et la modélisation des restes de supernova, en me concentrant sur la morphologie 3D.<br>
-J'ai aussi un intérêt particulier pour la visualisation scientifique. J'explore les techniques de visualisation 3D immersive de cubes de données, avec des applications à la fois pour les simulations et pour les données radio.<br>
+Bonjour, je suis Gilles Ferrand /ʒil feʁɑ̃/, un astrophysicien Français et Canadien présentement employé par RIKEN, un institut de recherche au Japon.<br>
+J'ai étudié l'accélération de particules par les ondes de choc dans les restes de supernova, qu'on pense être les principaux producteurs de rayons cosmiques dans la Galaxie (isolément, ou au sein des superbulles). Mon travail est basé principalement sur les simulations numériques, qui permettent de comprendre les interactions complexes entre le choc et les particules, et de prédire l'émission multi-longueur d'onde qu'on observe. Pour faciliter les comparaisons avec les observations, j'ai réalisé le premier catalogue des observations en rayons X et gamma des rémanents galactiques. Récemment je travaille à faire le lien entre la modélisation des explosion de supernova et la modélisation des restes de supernova, en me concentrant sur la morphologie 3D.<br>
+J'ai aussi un intérêt particulier pour la visualisation scientifique. J'explore les techniques de visualisation 3D immersive de cubes de données, avec des applications pour les données à la fois de simulations et d'observations.<br>
 <br>
-[curriculum vitae complet en PDF](https://www.dropbox.com/s/bt370ygyubt1uc6/FERRAND_2021-11_CV.pdf?dl=0)
+[curriculum vitae complet en PDF](https://www.dropbox.com/s/dcxxu7pw6ro08vh/FERRAND_2022-09_CV.pdf?dl=0)
