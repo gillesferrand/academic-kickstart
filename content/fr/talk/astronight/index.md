@@ -48,7 +48,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "https://www.dropbox.com/s/94onsvlnbiuws0l/FERRAND_2014-11-20_astrophotography.pdf?dl=0"
+url_pdf: "https://www.dropbox.com/s/1sbsjar3qt15l9v/FERRAND_2014-11-20_astrophotography.pdf?dl=0"
 url_video:
 
 # Markdown Slides (optional).
