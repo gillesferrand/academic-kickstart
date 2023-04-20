@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist
+role: astrophysicist
 
 # Organizations/Affiliations
 organizations:
-- name: RIKEN
-  url: "https://www.riken.jp/en/"
+#- name: RIKEN
+#  url: "https://www.riken.jp/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include supernova remnants and cosmic rays, I am also working on scientific visualization.
@@ -79,8 +79,8 @@ email: ""
 #- Visitors
 ---
 
-Hello, I am Gilles Ferrand /ʒil feʁɑ̃/, a French and Canadian astrophysicist currently employed by RIKEN, a research institute in Japan.<br>
+Hello, I am Gilles Ferrand /ʒil feʁɑ̃/, a French and Canadian astrophysicist.<br>
 I have been studying the acceleration of particles by shock waves in supernova remnants, which are believed to be the main production sites of Galactic cosmic-rays (isolated or inside superbubbles). My work is mostly based on numerical simulations, that allow me to understand the complex interplay between the shock and the particles, and to predict the multi-wavelength emission that we observe. To help making comparisons with observations, I made the first complete catalogue of X-ray and gamma-ray observations of Galactic remnants. Recently I have been working on making the link between the modeling of supernova explosions and the modeling of supernova remnants, with a focus on the 3D morphology.<br>
 I have also a keen interest in scientific visualization. I have been exploring techniques for immersive visualization of 3D data cubes, with applications to data from both simulations and observations.<br>
 <br>
-[Full curriculum vitae as PDF](https://www.dropbox.com/s/dcxxu7pw6ro08vh/FERRAND_2022-09_CV.pdf?dl=0)
+[Full curriculum vitae as PDF](https://www.dropbox.com/s/e92gz9xj30o2ejt/FERRAND_2023-04_CV.pdf?dl=0)

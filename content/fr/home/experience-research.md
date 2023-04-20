@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "http://nagataki-lab.riken.jp/index_en.html"
   location = "Japon"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "2023-03-31"
   description = """De l'explosion de supernova au reste de supernova<br>
   Dr. Shigehiro Nagataki<br>
   [Astrophysical Big Bang Laboratory (ABBL)](http://nagataki-lab.riken.jp/index_en.html)<br>

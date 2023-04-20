@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "http://nagataki-lab.riken.jp/index_en.html"
   location = "Japan"
   date_start = "2016-09-01"
-  date_end = ""
+  date_end = "2023-03-31"
   description = """From the supernova engine to the supernova remnant<br>
   Dr. Shigehiro Nagataki<br>
   [Astrophysical Big Bang Laboratory (ABBL)](http://nagataki-lab.riken.jp/index_en.html)<br>

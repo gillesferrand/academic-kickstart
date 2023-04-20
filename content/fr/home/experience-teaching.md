@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Canada"
   date_start = "2021-08-30"
   date_end = ""
-  description = """Enseigne la physique stellaire à des étudiants de troisième année"""
+  description = """Enseigné la physique stellaire à des étudiants de troisième année"""
 
 [[experience]]
   title = "Sessional Instructor"

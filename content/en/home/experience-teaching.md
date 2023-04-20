@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   location = "Canada"
   date_start = "2021-08-30"
   date_end = ""
-  description = """Teaching stellar physics to third year students"""
+  description = """Taught stellar physics to third year students"""
 
 [[experience]]
   title = "Sessional Instructor"
