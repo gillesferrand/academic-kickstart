@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "\"From the thermonuclear supernova to the supernova remnant\""
+title: "\"Typing thermonuclear explosions from X-ray spectro-imagery of young supernova remnants\""
 event: "RESCEU Colloquium"
 event_url:
 location: "The University of Tokyo"
@@ -16,11 +16,11 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-11-26
+date: 2023-05-18
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-01-04T18:23:59+09:00
+publishDate: 2023-07-14T10:00:00+00:00
 
 authors: []
 tags: [pro]
@@ -48,7 +48,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "https://www.dropbox.com/s/ifuqyp9h1x8ydie/FERRAND_2020-11-26_RESCEU-colloquium.pdf?dl=0"
+url_pdf: "https://www.dropbox.com/scl/fi/gwvspid940colcokbl738/FERRAND_2023-05-18_RESCEU_SN2SNR.pdf?rlkey=kz9ugva4j0yb7gb8iieslm0jw&dl=0"
 url_video:
 
 # Markdown Slides (optional).

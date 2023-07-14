@@ -86,14 +86,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-#address = {city = "Winnpeg", region = "Manitoba", postcode = "", country = "Canada", country_code = "CA"}
+address = {street = "30A Sifton Road", city = "Winnipeg", region = "MB", postcode = "R3T 2N2", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "49.81059471668012", longitude = "-97.13490516853017"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "University of Manitoba, Fort Garry campus<br>Allen Building, room 311"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -166,6 +166,7 @@ plugins_js  = []
 # Available address formats.
 [address_formats]
   jp = {order = ['street', 'city', 'region', 'postcode', 'country'], delimiters = [', ', ', ', ' ', '<br>']}
+  ca = {order = ['street', 'city', 'region', 'postcode', 'country'], delimiters = [', ', ', ', ', ', ', ']}
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
