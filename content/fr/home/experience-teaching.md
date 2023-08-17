@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "http://www.umanitoba.ca"
   location = "Canada"
   date_start = "2021-08-30"
-  date_end = ""
+  date_end = "2021-12-31"
   description = """Enseigné la physique stellaire à des étudiants de troisième année"""
 
 [[experience]]
