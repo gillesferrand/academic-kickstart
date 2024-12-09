@@ -3,7 +3,7 @@
 
 title: "\"Supernova Remnants\""
 event: "monthly meeting"
-event_url: "https://winnipeg.rasc.ca/events/category/monthly/"
+event_url: "https://winnipeg.rasc.ca/events-2/"
 location: "Royal Astronomical Society of Canada (RASC)"
 address:
   street:

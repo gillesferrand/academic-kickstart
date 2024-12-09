@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "\"Supernova Remnants\""
+title: "\"The intriguing nebula Pa 30 and the supernova of 1181\""
 event: "réunion mensuelle"
-event_url: "https://winnipeg.rasc.ca/events/category/monthly/"
+event_url: "https://winnipeg.rasc.ca/events-2/"
 location: "Royal Astronomical Society of Canada (RASC)"
 address:
   street:
@@ -16,11 +16,11 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2011-08-07
+date: 2024-12-06
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-01-04T16:30:39+09:00
+publishDate: 2024-12-09T00:00:00
 
 authors: []
 tags: [pub]
@@ -48,7 +48,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: "https://www.dropbox.com/s/gxrjxqgy52jn47v/FERRAND_2011-07_RASC.pdf?dl=0"
+url_pdf: "https://www.dropbox.com/scl/fi/av7yd2gq4vyocqqs58qlj/FERRAND_2024-12-06_RASC_SN1181.pdf?rlkey=8eoav4w6pjm63a1kh47bltaqe&dl=0"
 url_video:
 
 # Markdown Slides (optional).
