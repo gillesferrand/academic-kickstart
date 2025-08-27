@@ -110,7 +110,7 @@ contact_links = [
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  #{icon = "scroll", icon_pack = "fas", name = "full curriculum vitae as PDF", link = "https://www.dropbox.com/s/eh3tctclg12aqlv/FERRAND_2019-12_CV.pdf?dl=0"},
+  #{icon = "scroll", icon_pack = "fas", name = "full curriculum vitae as PDF", link = "https://www.dropbox.com/scl/fi/y4toalzvw2kzp9xwq10fe/FERRAND_2025-08_CV.pdf?rlkey=6kukly22tahril93ejfenrp5x&dl=0"},
   ]
 
 ############################
